@@ -17,6 +17,8 @@ cl_train = pd.read_csv(r'D:\Kaggle\Coupon Purchase Prediction\coupon_list_train.
 cl_test = pd.read_csv(r'D:\Kaggle\Coupon Purchase Prediction\coupon_list_test,csv', header=0)
 ul = pd.read_csv(r'D:\Kaggle\Coupon Purchase Prediction\user_list.csv', header=0)
 
-
+"""
+ Test
+"""
 
 
